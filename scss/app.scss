@@ -29,3 +29,27 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
   box-shadow: none;
   color: #fff;
 }
+/* Un-comment the following, for initial RTL UI support.
+body {
+   direction: rtl; 
+   text-align: right;
+}
+*/
+ 
+ .bar-side-menu {
+   background-color: blue;
+ }
+ 
+ .bar-content {
+   background-color: blue;
+ }
+ 
+ .button.button-positive {
+   border-color: blue;
+   background-color: blue;
+    color: #fff;
+ } 
+ 
+ .item-divider {
+   background-color: #fafafa;
+ }
